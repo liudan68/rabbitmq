@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="553f1bab-7321-4456-9526-6c285ad72710" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--follow-tags" />
+        <option name="title" value="Current Branch" />
+      </GitPushTagMode>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1lB82OYXAGDpvOOHSUvkJA8Eg78" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="flattenModules" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="false" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.45747125" />
+    <property name="settings.editor.selected.configurable" value="GitLabConfigurableProvider" />
+  </component>
+  <component name="RunManager">
+    <configuration name="RabbitMqHelloApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RabbitMqHelloApplication" />
+      <module name="rabbitmq" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.RabbitMqHelloApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="553f1bab-7321-4456-9526-6c285ad72710" name="Default Changelist" comment="" />
+      <created>1607058915823</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1607058915823</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="1">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="structure">
+                    <value>
+                      <list>
+                        <option value="dir:D:/dandanwork/code/rabbitmq" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="200" y="4" key="#Project_Structure" timestamp="1607251889090">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="200" y="4" key="#Project_Structure/0.0.1440.860@0.0.1440.860" timestamp="1607251889090" />
+    <state width="1397" height="222" key="GridCell.Tab.0.bottom" timestamp="1607168874986">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1397" height="222" key="GridCell.Tab.0.bottom/0.0.1440.860@0.0.1440.860" timestamp="1607168874986" />
+    <state width="1397" height="222" key="GridCell.Tab.0.center" timestamp="1607168874986">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1397" height="222" key="GridCell.Tab.0.center/0.0.1440.860@0.0.1440.860" timestamp="1607168874986" />
+    <state width="1397" height="222" key="GridCell.Tab.0.left" timestamp="1607168874986">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1397" height="222" key="GridCell.Tab.0.left/0.0.1440.860@0.0.1440.860" timestamp="1607168874986" />
+    <state width="1397" height="222" key="GridCell.Tab.0.right" timestamp="1607168874986">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1397" height="222" key="GridCell.Tab.0.right/0.0.1440.860@0.0.1440.860" timestamp="1607168874986" />
+    <state x="300" y="164" key="IDE.errors.dialog" timestamp="1607059558322">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="300" y="164" key="IDE.errors.dialog/0.0.1440.860@0.0.1440.860" timestamp="1607059558322" />
+    <state x="250" y="85" key="Maven.ArtifactSearchDialog" timestamp="1607168663463">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="250" y="85" key="Maven.ArtifactSearchDialog/0.0.1440.860@0.0.1440.860" timestamp="1607168663463" />
+    <state x="221" y="74" key="SettingsEditor" timestamp="1607165073209">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="221" y="74" key="SettingsEditor/0.0.1440.860@0.0.1440.860" timestamp="1607165073209" />
+    <state x="312" y="163" key="Vcs.Push.Dialog.v2" timestamp="1607252817348">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="312" y="163" key="Vcs.Push.Dialog.v2/0.0.1440.860@0.0.1440.860" timestamp="1607252817348" />
+    <state x="513" y="343" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1607251699519">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="513" y="343" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1440.860@0.0.1440.860" timestamp="1607251699519" />
+    <state x="504" y="217" key="git4idea.merge.GitPullDialog" timestamp="1607169145009">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="504" y="217" key="git4idea.merge.GitPullDialog/0.0.1440.860@0.0.1440.860" timestamp="1607169145009" />
+    <state x="521" y="336" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1607251432933">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="521" y="336" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1440.860@0.0.1440.860" timestamp="1607251432933" />
+    <state x="529" y="269" key="git4idea.ui.GitTagDialog" timestamp="1607251553107">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="529" y="269" key="git4idea.ui.GitTagDialog/0.0.1440.860@0.0.1440.860" timestamp="1607251553107" />
+  </component>
+</project>
